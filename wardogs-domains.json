@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bulkhead.net",
+        "pragmaengine.com",
+        "elytra.ac",
+        "firstlook.gg",
+        "epicgames.dev"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "bulkhead",
+		"pragmaengine",
+		"elytra",
+        "wardogs"
+      ]
+    }
+  ]
+}
